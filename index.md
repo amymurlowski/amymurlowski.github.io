@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+profile_picture:
+    src: /assets/img/profile-pic.jpg
+    alt: Amy Murlowski
 ---
 
-This is the main page where info goes. More info
+This is the main page where info goes.
