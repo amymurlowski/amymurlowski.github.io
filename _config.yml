@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Amy Murlowski
 domain: amymurlowski.github.io
-description: >- 
-  Simple site for Amy Murlowski  
+description: >-
+  Simple site for Amy Murlowski
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amymurlowski.github.io"
 
@@ -44,5 +44,17 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: About
-      slug: /about
+    - name: DNP Project
+      slug: /dnpproject
+    - name: Resume
+      slug: /resume
+
+footer:
+  contact:
+    - name: Email
+      value: amy.murlowski@gmail.com
+    - name: Email
+      value: amurlowski@unmc.edu
+  follow:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/amy-murlowski-82963332

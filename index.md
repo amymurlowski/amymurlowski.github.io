@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is the main page where info goes.
+This is the main page where info goes. More info
