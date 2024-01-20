@@ -22,7 +22,6 @@ url: "https://amymurlowski.github.io"
 
 # Build settings
 markdown: kramdown
-theme: bay_jekyll_theme
 remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
