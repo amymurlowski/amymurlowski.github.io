@@ -37,8 +37,11 @@ footer:
   contact:
     - name: Email
       value: amy.murlowski@gmail.com
+      link: mailto:amy.murlowski@gmail.com
     - name: Email
       value: amurlowski@unmc.edu
+      link: mailto:amurlowski@unmc.edu
   follow:
     - name: LinkedIn
       link: https://www.linkedin.com/in/amy-murlowski-82963332
+
