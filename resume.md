@@ -20,7 +20,7 @@ Care for laboring, high risk antepartum and postpartum patients, including triag
 
 •Daisy Patient Care Award  • Compassionate Care Award • Senior Practicum Preceptor
 
-### Registered Nurse • Labor & Delivery, and Antepartum • Antepartum Charge Nurse 
+### Registered Nurse • Labor & Delivery, and Antepartum • Antepartum Charge Nurse
 
 #### UCHealth Memorial Central Hospital • 2016 to 2019 • Colorado Springs, CO
 Care for laboring, high risk antepartum and postpartum patients. Duties included electronic fetal monitoring, assessment, education, unmedicated and medicated labor support, OR circulating, OB PACU, medication management, admissions and discharges. Additional experience in med/surg overflow and post-gynecologic surgeries.
