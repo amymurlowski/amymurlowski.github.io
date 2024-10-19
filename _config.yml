@@ -28,8 +28,6 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: DNP Project
-      slug: /dnpproject
     - name: Resume
       slug: /resume
 
