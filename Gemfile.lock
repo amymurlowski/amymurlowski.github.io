@@ -281,7 +281,7 @@ DEPENDENCIES
   bigdecimal
   csv
   github-pages
-  jekyll-feed (~> 0.6)
+  jekyll-feed (~> 0.17)
   logger
   webrick
 
