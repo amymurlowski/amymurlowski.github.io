@@ -11,7 +11,7 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 3.8.6"
 gem "github-pages", group: :jekyll_plugins
 
-gem "bay_jekyll_theme", "~> 1.1.5"
+gem "bay_jekyll_theme"
 gem "csv"
 gem "base64"
 gem "bigdecimal"
