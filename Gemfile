@@ -8,7 +8,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-#gem "jekyll", "~> 3.8.6"
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll"
 
-#gem "bay_jekyll_theme"
+gem "bay_jekyll_theme"
+
+gem "jekyll-feed", group: :jekyll_plugins
