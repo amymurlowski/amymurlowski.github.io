@@ -28,8 +28,16 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: Intro
+      slug: /intro
     - name: Resume
       slug: /resume
+    - name: Education & Clinical Experience
+      slug: /education
+    - name: Scholarly Works
+      slug: /scholarly
+    - name: Letters of Recommendation
+      slug: /recommendations
 
 footer:
   contact:
