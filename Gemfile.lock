@@ -17,7 +17,6 @@ GEM
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
     base64 (0.2.0)
-    bay_jekyll_theme (1.2.2)
     benchmark (0.4.0)
     bigdecimal (3.1.9)
     coffee-script (2.4.1)
@@ -276,14 +275,7 @@ PLATFORMS
   arm64-darwin-24
 
 DEPENDENCIES
-  base64
-  bay_jekyll_theme
-  bigdecimal
-  csv
   github-pages
-  jekyll-feed (~> 0.17)
-  logger
-  webrick
 
 BUNDLED WITH
    2.6.2
