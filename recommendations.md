@@ -1,8 +1,9 @@
---
-layout: default
-title: Letters of Recommendation
-permalink: /reccomendations/
 ---
+layout: default
+title: Letters of Reommendation
+permalink: /recommendations/
+---
+
 ## Letters of Recommendation
 
 ### First Last, Title

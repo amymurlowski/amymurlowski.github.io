@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Scholarly Works
-permalink: /scholarly/
+title: Scholerly Works
+permalink: /scholerly/
 ---
 ## Scholerly Works
 ### Publications
