@@ -12,4 +12,4 @@ permalink: /education/
 ### Metropolitan State University of Denver
 - Bachelor of Science in Nursing 
 - Bachelor of Arts in Behavioral Science
-    Focus in Psychology 
+    - Focus in Psychology 
