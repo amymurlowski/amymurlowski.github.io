@@ -29,8 +29,6 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Intro
-      slug: /intro
     - name: Resume
       slug: /resume
     - name: Education & Clinical Experience
