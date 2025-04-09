@@ -7,7 +7,7 @@ permalink: /education/
 
 ### University of Nebraska Medical Center
 - Doctorate of Nursing Practice • Graduating May 2025
-    Women’s Health Nurse Practitioner Program
+- Women’s Health Nurse Practitioner Program
 
 ### Metropolitan State University of Denver
 - Bachelor of Science in Nursing 
