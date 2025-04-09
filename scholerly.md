@@ -1,8 +1,0 @@
----
-layout: default
-title: Scholarly Works
-permalink: /scholarly/
----
-## Scholerly Works
-### Publications
-### Posters
