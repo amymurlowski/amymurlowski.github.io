@@ -6,7 +6,7 @@ permalink: /recommendations/
 
 ## Letters of Recommendation
 
-### Letters of Recommendation • incoming from: 
+### Letters of Recommendation incoming from: 
 • Heather Ramsey, DNP, CNM  
 • Kathleen Scott, DNP, CNM 
 • Jaylinda White
