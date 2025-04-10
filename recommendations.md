@@ -8,5 +8,5 @@ permalink: /recommendations/
 
 ### Letters of Recommendation • incoming from: 
 • Heather Ramsey, DNP, CNM  
-• Kathleen Scott, DNP - CNM 
+• Kathleen Scott, DNP, CNM 
 • Jaylinda White
