@@ -28,14 +28,15 @@ Focus in Psychology
 
 ### Spring 2025
 
-### Charles Drew Health Center
+#### Charles Drew Health Center
 
 - Mark Darby, MSN, FNP-C
 
 ### Women's Health
 
 ### Spring 2025
-### UNMC Olsen Center for Women's Health, Omaha, Nebraska
+
+#### UNMC Olsen Center for Women's Health, Omaha, Nebraska
 - Kathleen Scott, DNP, CNM
 - Heather Ramsey, DNP, CNM
 - Alyssa Fischer, MSN, APRN-CNM
@@ -43,18 +44,18 @@ Focus in Psychology
 
 ### Fall 2024
 
-###Alpine Women's Centre, Montrose, Colorado
+#### Alpine Women's Centre, Montrose, Colorado
 
 - Amber Mullally, MSN, WHNP
 - Kimberly Walker, DNP, WHNP
 
-### Colorado Center for Reproductive Medicine, Lone Tree, Colorado
+#### Colorado Center for Reproductive Medicine, Lone Tree, Colorado
 
 - Sarah Gallegos, MSN, CNM
 
 ### Fall 2023
 
-### Pride Health Clinic - Omaha, Nebraska
+#### Pride Health Clinic - Omaha, Nebraska
 - Leslie Dvorak, MSN, WHNP
 
 ## Research Project
