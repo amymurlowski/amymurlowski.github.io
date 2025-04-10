@@ -2,9 +2,18 @@
 layout: default
 title: Resume
 permalink: /resume/
+items:
+    - name: Qualifications
+      link: "#qualifications"
+    - name: Focused Experience
+      link: "#focused-experience"
+    - name: Education
+      link: "#education"
+    - name: Volunteer History
+      link: "#volunteer-history"
+    - name: Continuing Education
+      link: "#continuing-education"
 ---
-[Qualifications](#qualifications) • [Focused Experience](#focused-experience) •  [Education](#education) •  [Volunteer History](#volunteer-history) •  [Continuing Education](#continuing-education)
-
 ## Qualifications
 Registered Nurse • Current in BLS, ACLS
 
