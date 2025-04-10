@@ -24,7 +24,7 @@ Focus in Psychology
 
 ## Clinical Experiences
 
-###Primary Care
+### Primary Care
 
 ### Spring 2025
 
