@@ -23,10 +23,10 @@ Registered Nurse • Current in BLS, ACLS
     - Doctorate of Nursing Practice • Graduating May 2025
 - Metropolitan State University of Denver
     - Bachelor of Science in Nursing • Cum Laude
-- Inducted into Sigma Theta Tau International Nursing Honors Society
-- Presented at MSUDenver Research Conference
-- Bachelor of Arts in Behavioral Science • Pre-Health Minor
-    - Stephen M. Hay Leadership Award
+        - Inducted into Sigma Theta Tau International Nursing Honors Society
+        - Presented at MSUDenver Research Conference
+    - Bachelor of Arts in Behavioral Science • Pre-Health Minor
+        - Stephen M. Hay Leadership Award
 
 ## Focused Experience
 
