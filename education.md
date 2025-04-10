@@ -23,12 +23,45 @@ Women’s Health Nurse Practitioner Program
 Focus in Psychology
 
 ## Clinical Experiences
-Primary Care
-- Mark Darby, APRN, FNP-C
-Women's Health
+
+###Primary Care
+
+### Spring 2025
+
+### Charles Drew Health Center
+
+- Mark Darby, MSN, FNP-C
+
+### Women's Health
+
+### Spring 2025
+### UNMC Olsen Center for Women's Health, Omaha, Nebraska
 - Kathleen Scott, DNP, CNM
+- Heather Ramsey, DNP, CNM
+- Alyssa Fischer, MSN, APRN-CNM
+- April Nelson, MSN, CNM
+
+### Fall 2024
+
+###Alpine Women's Centre, Montrose, Colorado
+
+- Amber Mullally, MSN, WHNP
+- Kimberly Walker, DNP, WHNP
+
+### Colorado Center for Reproductive Medicine, Lone Tree, Colorado
+
+- Sarah Gallegos, MSN, CNM
+
+### Fall 2023
+
+### Pride Health Clinic - Omaha, Nebraska
+- Leslie Dvorak, MSN, WHNP
 
 ## Research Project
+insert final title here
+insert summary here
+insert link to PDF of paper here
+insert link to poster here
 
 ## Plan of Study
 ### Fall 2022
