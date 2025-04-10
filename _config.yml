@@ -40,12 +40,12 @@ header:
 
 footer:
   contact:
-    - name: Email
+    - type: email
+      name: amy.murlowski@gmail.com
       value: amy.murlowski@gmail.com
-      link: mailto:amy.murlowski@gmail.com
-    - name: Email
+    - type: email
+      name: amurlowski@unmc.edu
       value: amurlowski@unmc.edu
-      link: mailto:amurlowski@unmc.edu
   follow:
     - name: LinkedIn
       link: https://www.linkedin.com/in/amy-murlowski-82963332
