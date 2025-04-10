@@ -24,7 +24,7 @@ Focus in Psychology
 
 ## Clinical Experiences
 
-### Primary Care
+### Primary Care - 45 hours
 
 ### Spring 2025
 
@@ -32,7 +32,7 @@ Focus in Psychology
 
 - Mark Darby, MSN, FNP-C
 
-### Women's Health
+### Women's Health - 585 hours
 
 ### Spring 2025
 
