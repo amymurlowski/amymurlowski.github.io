@@ -4,7 +4,7 @@ profile_picture:
     src: /assets/img/profile-pic.jpg
     alt: Amy Murlowski
 ---
-Amy Murlowski, BSN, RN graduates May 2025 with a Doctorate of Nursing Practice from the University of Nebraska Medical Center, specializing as a Women’s Health Nurse Practitioner. 
+Amy Murlowski, BSN, RN graduates May 2025 with a Doctorate of Nursing Practice from the University of Nebraska Medical Center, specializing as a Women’s Health Nurse Practitioner.
 
 Even in high school, Amy provided peer education on contraception and anatomy. She began nursing school focused on gaining women's health experience and moving into a nurse practitioner role. With both inpatient experience in Antepartum care and Labor and Delivery, and outpatient experience in PACU surgical recovery, Amy has a strong background as a registered nurse that has prepared her to transition into the practitioner role.
 

@@ -1,11 +1,15 @@
-<nav class="site-nav">
-  <a href="#" class="menu-icon"></a>
+<header class="site-header">
+  <div class="wrapper">
+    <nav class="site-nav">
+      <a href="#" class="menu-icon"></a>
 
-  <div class="menu">
-    {% for item in page.items %}
-    <a class="page-link" href="{{ item.link }}">
-      {{ item.name }}
-    </a>
-    {% endfor %}
+      <div class="menu">
+        {% for item in page.items %}
+        <a class="page-link" href="{{ item.link }}">
+          {{ item.name }}
+        </a>
+        {% endfor %}
+      </div>
+    </nav>
   </div>
-</nav>
+</header>
