@@ -59,9 +59,13 @@ Focus in Psychology
 - Leslie Dvorak, MSN, WHNP
 
 ## Research Project
+
 insert final title here
+
 insert summary here
+
 insert link to PDF of paper here
+
 insert link to poster here
 
 ## Plan of Study
