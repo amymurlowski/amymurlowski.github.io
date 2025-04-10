@@ -3,10 +3,10 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
-#### Table of Contents
 1. [Qualifications](#qualifications)
 2. [Focused Experience](#focused-experience)
 3. [Education](#education)
+4. [Volunteer History](#volunteer-history)
 4. [Continuing Education](#continuing-education)
 
 ## Qualifications
