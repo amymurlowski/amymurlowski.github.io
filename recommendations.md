@@ -6,8 +6,12 @@ permalink: /recommendations/
 
 ## Letters of Recommendation
 
-### Letters of Recommendation incoming from: 
+### Letters of Recommendation (incoming)
 - Heather Ramsey, DNP, CNM  
 - Kathleen Scott, DNP, CNM
-- Jessica Suhowatsky, (formal letters to be added)
+- Jessica Suhowatsky, MSN, WHNP, AGPCNP
 - Jaylinda White
+
+### References (incoming)
+- Jessica Suhowatsky (need to verify permission to list information publicly)
+- TBD
