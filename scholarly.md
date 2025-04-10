@@ -6,6 +6,8 @@ permalink: /scholarly/
 ## Scholarly Works
 ### Publications
 
+To be added.
+
 ### Posters
 
 Murlowski, A., Johnson, D., & Mollard, E. (2025, February). Empowering Nurses to Enhance Labor Support and Promote Respectful Maternity Care Using the Coping with Labor Algorithm. [Poster Presentation]. Nebraska Nurse Practitioners Education Conference, Lincoln, NE. 
@@ -17,3 +19,5 @@ Murlowski, A., Johnson, D., & Mollard, E. (2025, April). Enhancing Nurse Confide
 ### Other
 
 [Challenging Weight Bias in Patient Care](/challengingweightbias/)
+
+To be added.
