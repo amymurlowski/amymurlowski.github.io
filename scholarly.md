@@ -13,3 +13,7 @@ Murlowski, A., Johnson, D., & Mollard, E. (2025, February). Empowering Nurses to
 Murlowski, A., Johnson, D., & Mollard, E. (2025, April). Advancing Respectful Maternity Care: Equipping Nurses with Labor Support Strategies. [Poster Presentation]. Sigma Theta Tau Gamma Pi At-Large Research Day, Omaha, NE. 
 
 Murlowski, A., Johnson, D., & Mollard, E. (2025, April). Enhancing Nurse Confidence in Labor Pain Management and Respectful Maternity Care. [Poster Presentation]. NONPF 51st Annual Conference, Denver, CO.  
+
+### Other
+
+[Challenging Weight Bias in Patient Care](/challengingweightbias/)
