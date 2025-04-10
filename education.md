@@ -41,6 +41,8 @@ Focus in Psychology
 - Heather Ramsey, DNP, CNM
 - Alyssa Fischer, MSN, APRN-CNM
 - April Nelson, MSN, CNM
+  
+(Insert skills and procedures)
 
 ### Fall 2024
 
@@ -57,6 +59,8 @@ Focus in Psychology
 
 #### Pride Health Clinic - Omaha, Nebraska
 - Leslie Dvorak, MSN, WHNP
+
+Note: Alpine Women's Centre was a rural location, all others were in urban environments
 
 ## Research Project
 
