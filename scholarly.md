@@ -13,7 +13,8 @@ items:
 ## Scholarly Works
 ### Publications
 
-To be added.
+Johnson, D., Murlowski, A., & Mollard, E. (2025). *Enhancing Nurse Confidence in Labor Pain Management and
+Respectful Maternity Care Through Implementation of the Coping With Labor Algorithm.* UNMC Digital Commons.  
 
 ### Presentations
 
