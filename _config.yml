@@ -1,4 +1,4 @@
-title: Amy Murlowski, BSN, RN
+title: Amy Murlowski, DNP, WHNP-BC
 domain: amymurlowski.github.io
 description: >-
   Doctorate of Nursing Practice Student, focusing on clinical infrastructure and overall practice readiness for patients of size.
@@ -35,17 +35,15 @@ header:
       slug: /education
     - name: Scholarly Works
       slug: /scholarly
-    - name: Letters of Recommendation
+    - name: References and Recommendations
       slug: /recommendations
 
 footer:
   contact:
     - type: email
-      name: amy.murlowski@gmail.com
-      value: amy.murlowski@gmail.com
-    - type: email
-      name: amurlowski@unmc.edu
-      value: amurlowski@unmc.edu
+      name: amymurlowskiWHNP@gmail.com
+      value: amymurlowskiWHNP@gmail.com
+  
   follow:
     - name: LinkedIn
       link: https://www.linkedin.com/in/amy-murlowski-82963332
