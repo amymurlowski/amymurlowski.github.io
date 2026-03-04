@@ -1,22 +1,25 @@
 ---
 layout: default
-title: Letters of Reommendation
+title: References and Recommendations
 permalink: /recommendations/
 items:
-    - name: Letters of Recommendation
-      link: "#letters-of-recommendation"
     - name: References
       link: "#references"
+    - name: Letters of Recommendation
+      link: "#letters-of-recommendation"
 ---
+
+### References 
+- Traci Bosshart, BSN, RN - Manager
+- Jessica Suhowatsky, MSN, WHNP, AGACNP
+- Jennifer Cera, DNP, WHNP
+- Diane Johnson, DNP, CNM
+- Heather Ramsey, DNP, CNM
+- Katherine Scott, DNP, CNM
+- Elizabeth Mollard, PhD, WHNP, CNM
 
 ## Letters of Recommendation
 
-### Letters of Recommendation (incoming)
+### Letters of Recommendation 
+- Traci Bosshart, BSN, RN - Manager
 - Heather Ramsey, DNP, CNM
-- Kathleen Scott, DNP, CNM
-- Jessica Suhowatsky, MSN, WHNP, AGPCNP
-- Jaylinda White
-
-### References (incoming)
-- Jessica Suhowatsky (need to verify permission to list information publicly)
-- TBD
