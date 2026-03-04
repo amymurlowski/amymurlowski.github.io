@@ -7,8 +7,6 @@ items:
       link: "#education"
     - name: Clinical Experiences
       link: "#clinical-experiences"
-    - name: Research Project
-      link: "#research-project"
     - name: Plan of Study
       link: "#plan-of-study"
 ---
@@ -61,16 +59,6 @@ Focus in Psychology
 - Leslie Dvorak, MSN, WHNP
 
 Note: Alpine Women's Centre was a rural location, all others were in urban environments
-
-## Research Project
-
-insert final title here
-
-insert summary here
-
-insert link to PDF of paper here
-
-insert link to poster here
 
 ## Plan of Study
 ### Fall 2022
