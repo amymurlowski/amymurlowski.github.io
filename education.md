@@ -32,6 +32,17 @@ Focus in Psychology
 
 ### Women's Health - 585 hours
 
+### Skills and Procedures
+- IUD insertions and removals (hormonal and nonhormonal), including pain management
+- Nexplanon insertions and removals, including pain management
+- Pap smears, Wet preps, STI testing, punch biopsy, Endometrial Biopsy
+- Well woman exams, Breast Exams
+- Prenatal and postpartum visits
+- Evaluating abnormal uterine bleeding, pelvic pain, dyspareunia, vaginitis
+- Counseling on contraception choices, menopausal transition including hormone therapy, health promotion
+- Gender Affirming Hormone Therapy
+- Swift acclimation across multiple EHRs, including EPIC and Athena
+
 ### Spring 2025
 
 #### UNMC Olsen Center for Women's Health, Omaha, Nebraska
@@ -39,8 +50,6 @@ Focus in Psychology
 - Heather Ramsey, DNP, CNM
 - Alyssa Fischer, MSN, APRN-CNM
 - April Nelson, MSN, CNM
-  
-(Insert skills and procedures)
 
 ### Fall 2024
 
