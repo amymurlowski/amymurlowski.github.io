@@ -6,7 +6,7 @@ items:
     - name: References
       link: "#references"
     - name: Letters of Recommendation
-      link: "#letters-of-recommendation"
+      link: "#letters-of-recommendation" 
 ---
 
 ### References 
