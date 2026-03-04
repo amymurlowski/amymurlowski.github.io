@@ -15,12 +15,12 @@ items:
       link: "#continuing-education"
 ---
 ## Qualifications
-Registered Nurse • Current in BLS, ACLS
+Women's Health Nurse Practitioner • Current in BLS, ACLS
 
 ## Education
 
 - University of Nebraska Medical Center
-    - Doctorate of Nursing Practice • Graduating May 2025
+    - Doctorate of Nursing Practice • Women's Health Nurse Practitioner
 - Metropolitan State University of Denver
     - Bachelor of Science in Nursing • Cum Laude
         - Inducted into Sigma Theta Tau International Nursing Honors Society
