@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-    src: /assets/img/profile-pic.jpg
+    src: /assets/img/Profile-pic-2.jpg
     alt: Amy Murlowski
 ---
 Amy Murlowski, DNP, WHNP-BC is a recent graduate of Univerity of Nebraska Medical Center, specializing as a Women’s Health Nurse Practitioner. She is ready to integrate into your clinical setting and provide patient-focused evidence-based care. Amy excels at listening, patient communication and education. Her versatility, determination, and easygoing personality make her a valuable team member. Amy's background in inpatient obestetric nursing and a passion for process improvement mean she will be an asset to any team.
